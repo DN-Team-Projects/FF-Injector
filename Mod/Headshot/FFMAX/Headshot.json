@@ -1,37 +1,37 @@
 [
 {
-"Name":"[ FIX DANG TAY ] Headshot + AIM Head All Characters",
-"Status":"High Risk",
+"Name":"[ FIX ZOMBIE ] Headshot + AIM Head All Characters",
+"Status":"Unsafe",
 "Image":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/Headshot/Preview/HSv2.png",
 "Link":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/FileMod/FFMAX/HeadshotV6.zip"
 },
 {
 "Name":"Headshot 100% + AIM Head All Characters",
-"Status":"High Risk",
+"Status":"Unsafe",
 "Image":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/Headshot/Preview/HeadshotV3.png",
 "Link":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/FileMod/FFMAX/HeadshotV5.zip"
 },
 {
 "Name":"Headshot 100% + High Neck",
-"Status":"High Risk",
+"Status":"Unsafe",
 "Image":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/Headshot/Preview/HeadshotV4.png",
 "Link":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/FileMod/FFMAX/HeadshotV4.zip"
 },
 {
 "Name":"Headshot 98% + AIM Head",
-"Status":"High Risk",
+"Status":"Unsafe",
 "Image":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/Headshot/Preview/HeadshotV3.png",
 "Link":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/FileMod/FFMAX/HeadshotV3.zip"
 },
 {
 "Name":"Headshot 98% + AIM",
-"Status":"High Risk",
+"Status":"Unsafe",
 "Image":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/Headshot/Preview/HSv2.png",
 "Link":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/FileMod/FFMAX/HeadshotV2.zip"
 },
 {
 "Name":"Headshot",
-"Status":"High Risk",
+"Status":"Unsafe",
 "Image":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/Headshot/Preview/Headshot.png",
 "Link":"https://github.com/DN-Team-Projects/FF-Injector/raw/main/Mod/FileMod/FFMAX/HeadshotV1.zip"
 }
