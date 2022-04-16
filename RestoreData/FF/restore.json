@@ -2,7 +2,7 @@
 {
 "Name":"Restore Default FreeFire 1.80.4",
 "Status":"Safe",
-"Version":"1.80.4",
+"Version":"1.80.x",
 "Image":"",
 "Link":""
 }
